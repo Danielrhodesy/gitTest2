@@ -1,0 +1,41 @@
+#header {
+  height: 40px;
+  width: 100%;
+  margin: 0 auto;
+  border: 3px solid black;
+  text-align: center;
+}
+
+#header h1 {
+  margin: 0 auto;
+}
+
+.content {
+  height: 1010px;
+
+}
+
+.content #map {
+  width: 70%;
+  height: 100%;
+  border: 3px solid black;
+  margin-top: 15px;
+  float: left;
+}
+
+.content #sideBar {
+  width: 28.5%;
+  height: 100%;
+  border: 3px solid black;
+  float: left;
+  margin-top: 15px;
+  margin-left: 0.5%;
+}
+
+.content #sidebar .sidebarHead h2 {
+  text-align: center;
+}
+
+.places: hover {
+  
+}

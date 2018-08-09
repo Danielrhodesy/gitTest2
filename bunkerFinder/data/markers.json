@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "place_name" : "Moa Point",
+    "lat": -41.337445,
+    "lng": 174.810670
+  },
+  {
+    "id": 2,
+    "place_name" : "Wrights Hill Fortress",
+    "lat": -41.295608,
+    "lng": 174.738510
+  },
+  {
+    "id": 3,
+    "place_name" : "Fort Balance",
+    "lat": -41.294658,
+    "lng": 174.834459
+  },
+  {
+    "id": 4,
+    "place_name" : "Massey Memorial Bunkers",
+    "lat": -41.285071,
+    "lng": 174.825987
+  },
+  {
+    "id": 5,
+    "place_name" : "Breaker Bay",
+    "lat": -41.335911,
+    "lng": 174.823917
+  },
+  {
+    "id": 6,
+    "place_name" : "Matiu / Somes Island Bunkers",
+    "lat": -41.258174,
+    "lng": 174.865914
+  },
+  {
+    "id": 7,
+    "place_name" : "Brooklyn bunkers",
+    "lat": -41.304830,
+    "lng": 174.751632
+  },
+  {
+    "id": 8,
+    "place_name" : "Makara Bunker",
+    "lat": -41.220058,
+    "lng": 174.711400
+  },
+  {
+    "id": 9,
+    "place_name" : "Fort Dorset",
+    "lat": -41.331570,
+    "lng": 174.837752
+  },
+  {
+    "id": 10,
+    "place_name" : "Sinclair Head WW2 Bunker",
+    "lat": -41.359233,
+    "lng": 174.716211
+  }
+]
